@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestMarkdown": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Markdown"
+    }
+  }
+}
