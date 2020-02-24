@@ -5,7 +5,8 @@ namespace TestMarkdown
     {
         static void Main(string[] args)
         {
-            Function.Menu(args[0]);
+            if (args.Length > 0)
+                Function.Menu(args[0]);
         }
     }
 }
